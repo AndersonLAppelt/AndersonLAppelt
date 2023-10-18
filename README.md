@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ueanndy/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonlappelt&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlappelt&layout=compact)
 ## Tecnologias que tenho estudado e praticado:
 
 <div style="display: inline_block"><br/>
