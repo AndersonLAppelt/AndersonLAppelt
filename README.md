@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonlappelt&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlappelt&layout=compact)
+
 ## Tecnologias que tenho estudado e praticado:
 
 <div style="display: inline_block"><br/>
